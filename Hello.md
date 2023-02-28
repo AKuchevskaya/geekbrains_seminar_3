@@ -38,4 +38,17 @@ Git add
 ## Работа с картинками  
 ![картинка спящего котенка](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKXBGIe2uG57KaGmzB55AYcxXkypsQbHuM-OyAHxkdLMRh_ZG7WETGP3arqi7wlxfH5vE&usqp=CAU)  
 
-[работа с Markdown](https://texterra.ru/blog/ischerpyvayushchaya-shpargalka-po-sintaksisu-razmetki-markdown-na-zametku-avtoram-veb-razrabotchikam.html)
+[работа с Markdown](https://texterra.ru/blog/ischerpyvayushchaya-shpargalka-po-sintaksisu-razmetki-markdown-na-zametku-avtoram-veb-razrabotchikam.html)  
+
+## Работа со списками  
+1. one  
+2. two  
+
+*  
+*  
++  
++  
+-  
+-  
+
+
